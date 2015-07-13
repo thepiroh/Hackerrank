@@ -1,3 +1,2 @@
-# Hackerrank
-Hackerrank Problems 
+# Hackerrank Problems
 Language: Python
